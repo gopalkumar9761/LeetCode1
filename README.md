@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gopalkumar9761/LeetCode1/tree/master/0014-longest-common-prefix) |
+| [1768-merge-strings-alternately](https://github.com/gopalkumar9761/LeetCode1/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/gopalkumar9761/LeetCode1/tree/master/0016-3sum-closest) |
+| [1768-merge-strings-alternately](https://github.com/gopalkumar9761/LeetCode1/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
