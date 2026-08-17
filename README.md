@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/gopalkumar9761/LeetCode1/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/gopalkumar9761/LeetCode1/tree/master/0016-3sum-closest) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
