@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/gopalkumar9761/LeetCode1/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
