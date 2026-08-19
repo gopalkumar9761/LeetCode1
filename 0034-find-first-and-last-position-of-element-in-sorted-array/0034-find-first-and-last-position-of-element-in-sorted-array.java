@@ -6,7 +6,6 @@ class Solution {
         return result;
     }
     
-    // 1. Sirf Pehli (First) Position dhundhne ke liye alag method
     private int findFirst(int[] nums, int target) {
         int startIndex = 0;
         int lastIndex = nums.length - 1;
@@ -20,15 +19,13 @@ class Solution {
             } else if (nums[midIndex] > target) {
                 lastIndex = midIndex - 1;
             } else {
-                // Target mil gaya, par pehli position ke liye aur LEFT (peeche) dekho
                 firstIndex = midIndex;
                 lastIndex = midIndex - 1; 
             }
         }
         return firstIndex;
     }
-    
-    // 2. Sirf Aakhri (Last) Position dhundhne ke liye alag method
+
     private int findLast(int[] nums, int target) {
         int startIndex = 0;
         int lastIndex = nums.length - 1;
@@ -42,7 +39,6 @@ class Solution {
             } else if (nums[midIndex] > target) {
                 lastIndex = midIndex - 1;
             } else {
-                // Target mil gaya, par aakhri position ke liye aur RIGHT (aage) dekho
                 lastIndexFound = midIndex;
                 startIndex = midIndex + 1; 
             }
