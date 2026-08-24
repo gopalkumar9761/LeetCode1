@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gopalkumar9761/LeetCode1/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/gopalkumar9761/LeetCode1/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/gopalkumar9761/LeetCode1/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
