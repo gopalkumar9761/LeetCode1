@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/gopalkumar9761/LeetCode1/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/gopalkumar9761/LeetCode1/tree/master/0066-plus-one) |
+| [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gopalkumar9761/LeetCode1/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,5 +64,10 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/0643-maximum-average-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
