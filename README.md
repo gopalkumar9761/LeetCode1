@@ -77,4 +77,24 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gopalkumar9761/LeetCode1/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gopalkumar9761/LeetCode1/tree/master/0797-all-paths-from-source-to-target) |
+## Depth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gopalkumar9761/LeetCode1/tree/master/0797-all-paths-from-source-to-target) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gopalkumar9761/LeetCode1/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gopalkumar9761/LeetCode1/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/gopalkumar9761/LeetCode1/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
