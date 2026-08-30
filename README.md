@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gopalkumar9761/LeetCode1/tree/master/0014-longest-common-prefix) |
+| [0796-rotate-string](https://github.com/gopalkumar9761/LeetCode1/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/gopalkumar9761/LeetCode1/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/gopalkumar9761/LeetCode1/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
