@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/0643-maximum-average-subarray-i) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gopalkumar9761/LeetCode1/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | [0027-remove-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/gopalkumar9761/LeetCode1/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1768-merge-strings-alternately](https://github.com/gopalkumar9761/LeetCode1/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
