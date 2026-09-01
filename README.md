@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/0643-maximum-average-subarray-i) |
+| [0794-valid-tic-tac-toe-state](https://github.com/gopalkumar9761/LeetCode1/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gopalkumar9761/LeetCode1/tree/master/0798-smallest-rotation-with-highest-score) |
 ## Hash Table
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/gopalkumar9761/LeetCode1/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0794-valid-tic-tac-toe-state](https://github.com/gopalkumar9761/LeetCode1/tree/master/0794-valid-tic-tac-toe-state) |
 <!---LeetCode Topics End-->
