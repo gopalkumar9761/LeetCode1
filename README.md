@@ -21,10 +21,12 @@
 | [0794-valid-tic-tac-toe-state](https://github.com/gopalkumar9761/LeetCode1/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gopalkumar9761/LeetCode1/tree/master/0798-smallest-rotation-with-highest-score) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0001-two-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/gopalkumar9761/LeetCode1/tree/master/0797-all-paths-from-source-to-target) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -120,4 +123,9 @@
 |  |
 | ------- |
 | [0794-valid-tic-tac-toe-state](https://github.com/gopalkumar9761/LeetCode1/tree/master/0794-valid-tic-tac-toe-state) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
