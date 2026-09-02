@@ -22,6 +22,7 @@
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gopalkumar9761/LeetCode1/tree/master/0798-smallest-rotation-with-highest-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gopalkumar9761/LeetCode1/tree/master/0066-plus-one) |
+| [3875-construct-uniform-parity-array-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
 | ------- |
