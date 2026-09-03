@@ -23,6 +23,7 @@
 | [0798-smallest-rotation-with-highest-score](https://github.com/gopalkumar9761/LeetCode1/tree/master/0798-smallest-rotation-with-highest-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/gopalkumar9761/LeetCode1/tree/master/0066-plus-one) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
