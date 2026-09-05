@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/0643-maximum-average-subarray-i) |
 | [0794-valid-tic-tac-toe-state](https://github.com/gopalkumar9761/LeetCode1/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -60,6 +62,7 @@
 | [0016-3sum-closest](https://github.com/gopalkumar9761/LeetCode1/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,8 +150,10 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
