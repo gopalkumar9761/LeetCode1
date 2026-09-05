@@ -16,6 +16,7 @@
 | [0045-jump-game-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/gopalkumar9761/LeetCode1/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/0643-maximum-average-subarray-i) |
 | [0794-valid-tic-tac-toe-state](https://github.com/gopalkumar9761/LeetCode1/tree/master/0794-valid-tic-tac-toe-state) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -57,6 +59,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/gopalkumar9761/LeetCode1/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,4 +139,16 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
