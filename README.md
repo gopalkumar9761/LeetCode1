@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gopalkumar9761/LeetCode1/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0115-distinct-subsequences) |
 | [0796-rotate-string](https://github.com/gopalkumar9761/LeetCode1/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/gopalkumar9761/LeetCode1/tree/master/1768-merge-strings-alternately) |
 ## Trie
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0115-distinct-subsequences) |
 ## Greedy
 |  |
 | ------- |
