@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/gopalkumar9761/LeetCode1/tree/master/0797-all-paths-from-source-to-target) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gopalkumar9761/LeetCode1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,4 +166,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gopalkumar9761/LeetCode1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gopalkumar9761/LeetCode1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
