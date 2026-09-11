@@ -24,6 +24,7 @@
 | [0794-valid-tic-tac-toe-state](https://github.com/gopalkumar9761/LeetCode1/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gopalkumar9761/LeetCode1/tree/master/0798-smallest-rotation-with-highest-score) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gopalkumar9761/LeetCode1/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -35,6 +36,7 @@
 | [0001-two-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/gopalkumar9761/LeetCode1/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -174,4 +176,12 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gopalkumar9761/LeetCode1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gopalkumar9761/LeetCode1/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/gopalkumar9761/LeetCode1/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
