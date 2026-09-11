@@ -21,6 +21,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/gopalkumar9761/LeetCode1/tree/master/0643-maximum-average-subarray-i) |
+| [0792-number-of-matching-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0792-number-of-matching-subsequences) |
 | [0794-valid-tic-tac-toe-state](https://github.com/gopalkumar9761/LeetCode1/tree/master/0794-valid-tic-tac-toe-state) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/gopalkumar9761/LeetCode1/tree/master/0798-smallest-rotation-with-highest-score) |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0792-number-of-matching-subsequences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gopalkumar9761/LeetCode1/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gopalkumar9761/LeetCode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
@@ -43,6 +45,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gopalkumar9761/LeetCode1/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0115-distinct-subsequences) |
+| [0792-number-of-matching-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/gopalkumar9761/LeetCode1/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/gopalkumar9761/LeetCode1/tree/master/1768-merge-strings-alternately) |
@@ -50,6 +53,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gopalkumar9761/LeetCode1/tree/master/0014-longest-common-prefix) |
+| [0792-number-of-matching-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0792-number-of-matching-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +72,7 @@
 | [0075-sort-colors](https://github.com/gopalkumar9761/LeetCode1/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gopalkumar9761/LeetCode1/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0229-majority-element-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,12 +80,14 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gopalkumar9761/LeetCode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gopalkumar9761/LeetCode1/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/gopalkumar9761/LeetCode1/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-number-of-matching-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0792-number-of-matching-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/gopalkumar9761/LeetCode1/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0115-distinct-subsequences) |
+| [0792-number-of-matching-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0940-distinct-subsequences-ii) |
 ## Greedy
 |  |
