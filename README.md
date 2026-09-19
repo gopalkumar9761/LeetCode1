@@ -95,6 +95,7 @@
 | [0053-maximum-subarray](https://github.com/gopalkumar9761/LeetCode1/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0115-distinct-subsequences) |
 | [0792-number-of-matching-subsequences](https://github.com/gopalkumar9761/LeetCode1/tree/master/0792-number-of-matching-subsequences) |
+| [0799-champagne-tower](https://github.com/gopalkumar9761/LeetCode1/tree/master/0799-champagne-tower) |
 | [0940-distinct-subsequences-ii](https://github.com/gopalkumar9761/LeetCode1/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gopalkumar9761/LeetCode1/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
